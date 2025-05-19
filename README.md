@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishika Singh</h1>
-<h3 align="center">A passionate Computer Application Student.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikasingh10&label=Profile%20views&color=0e75b6&style=flat" alt="ishikasingh10" /> </p>
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ishika-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishika-singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ishika-singh-294980285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishika-singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
